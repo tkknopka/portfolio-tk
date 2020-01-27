@@ -1,2 +1,2 @@
 # portfolio-tk.github.io
-my portfolio
+https://tkknopka.github.io/portfolio-tk.github.io/
