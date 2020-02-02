@@ -105,6 +105,9 @@ h3 {
     margin: 0 auto;
     transition: all 5s ease;
 }
+.anchor {
+    margin-bottom: 15px;
+}
 .about-me__block1 {
     width: 457px;
 }
