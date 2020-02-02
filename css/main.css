@@ -265,4 +265,8 @@ h3 {
     text-decoration: none;
     color: #8fa2d3;
     font-size: 25px;
+    padding-right: 5px;
+}
+.footer__icon a:last-child; {
+    padding-right: 0px;
 }
